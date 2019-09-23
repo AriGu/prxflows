@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding-top: 50px;
+    background: #cdcdcd;
+}
+form{
+    text-align: center;
+}
+img{
+    width: 450px;
+}
+
