@@ -13,7 +13,7 @@ var_dump($array);
 
 $array = $array['sand'];
 
-echo "hello";
+echo "politic";
 
 
 
